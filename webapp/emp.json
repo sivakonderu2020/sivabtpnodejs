@@ -1,0 +1,46 @@
+{
+    "empStr": {
+        "empId": 1005,
+        "empName": "Siva Konderu",
+        "salary": 45000,
+        "curr": "EUR"
+    },
+    "empTab": [
+        {
+            "empId": 9001,
+            "empName": "Shanvi Konderu",
+            "salary": 35000,
+            "curr": "EUR"
+        },
+        {
+            "empId": 9002,
+            "empName": "Akshith Konderu",
+            "salary": 89000,
+            "curr": "EUR"
+        },
+        {
+            "empId": 9003,
+            "empName": "Rakesh Pandrameesu",
+            "salary": 99000,
+            "curr": "AED"
+        },
+        {
+            "empId": 9004,
+            "empName": "Sudha Konderu",
+            "salary": 98500,
+            "curr": "USD"
+        },
+        {
+            "empId": 9005,
+            "empName": "Pentaiah Konderu",
+            "salary": 98500,
+            "curr": "USD"
+        },
+        {
+            "empId": 9007,
+            "empName": "Venkata Ramana Konderu",
+            "salary": 99500,
+            "curr": "INR"
+        }
+    ]
+}
