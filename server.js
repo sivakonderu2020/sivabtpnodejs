@@ -24,4 +24,5 @@ app.get('/', function (req, res) {
 
 console.log("Server started at http://localhost:3000");
 console.log("updated to check git hub");
-app.listen(3000)
+// get port number at runtime from BTP or if local then 3000
+app.listen(process.env.PORT || 3000)
