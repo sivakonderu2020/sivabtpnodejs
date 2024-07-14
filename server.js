@@ -23,4 +23,5 @@ app.get('/', function (req, res) {
 //         });
 
 console.log("Server started at http://localhost:3000");
+console.log("updated to check git hub");
 app.listen(3000)

@@ -41,6 +41,18 @@
             "empName": "Venkata Ramana Konderu",
             "salary": 99500,
             "curr": "INR"
+        },
+        {
+            "empId": 9008,
+            "empName": "Anvesh Navvathi",
+            "salary": 8000,
+            "curr": "USD"
+        },
+        {
+            "empId": 9009,
+            "empName": "Yashwanth Bandaru",
+            "salary": 8000,
+            "curr": "USD"
         }
     ]
 }
